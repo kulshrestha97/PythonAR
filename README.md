@@ -20,7 +20,7 @@ Linux generally ships with Python3 installed, but still, this is HOWTO:
 pip install path-to-whl
 ```
 ### Sample
-
+![Sample](https://github.com/kulshrestha97/PythonAR/blob/master/Final.png)
 
 ## Author
 * Rajat Kulshreshtha
